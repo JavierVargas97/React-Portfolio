@@ -9,7 +9,7 @@ const Navbar = () => {
     const handleClick = () => setNav(!nav)
     return (
         <div
-            className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#10162f] text-[#f0f1f5]'>
+            className='shadow-md shadow-black  fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#10162f] text-[#f0f1f5]'>
             <div>
                 <img src={Logo} alt="Logo Images" style={{ width: '170px' }} />
             </div>
