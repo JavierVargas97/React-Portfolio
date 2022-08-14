@@ -14,12 +14,12 @@ const Aboutme = () => {
                 </div>
 
 
-                <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
+                <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-semibold'>
                         <p>Welcome to my personal portfolio. Plase take a look around of my website I apreciate your visit! </p>
                     </div>
                     <div>
-                        <p className='sm:text-right  font-semibold'>Im so excited for start on this world of Developer of web apps,
+                        <p className='font-bold'>Im so excited for start on this world of Developer of web apps,
                             all this time i was looking what i could do of my laboral life and I could never take a desition about that,
                             So a friend who too dedicates on this , he talked to me for take a  look at the topic and i was so facinate
                             how you can create a lot of things using web tools! so i was decide to learn  for create amazing
