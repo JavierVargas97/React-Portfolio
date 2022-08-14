@@ -10,7 +10,7 @@ import Mysql from '../assets/sql.png';
 
 const Skills = () => {
     return (
-        <div name='skills' className='bg-[#10162f]'>
+        <div name='skills' className='w-full h-screen bg-[#10162f]'>
             {/* container */}
             <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
                 <div>
@@ -18,7 +18,7 @@ const Skills = () => {
                     <p className='p-2 text-[#e5e5e5]'>Lenguages I've worked</p>
                 </div>
 
-                <div className='w-full grid grid-cols-2 sm:grind-cols-4 gap-4 text-center py-8'>
+                <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-4 text-center py-8'>
                     <div className=' shadow-md shadow-black hover:scale-110 duration-300'>
                         <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
                         <p className='text-[#e5e5e5] my-4'>HTML</p>
