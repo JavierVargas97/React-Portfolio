@@ -1,12 +1,11 @@
+import Navbar from "./components/Navbar";
 
 
 
 function App() {
   return (
-    <div className="App">
-      <h1> EJEMPLO NUMERO 1!
-
-      </h1>
+    <div> 
+      <Navbar/>
     </div>
   );
 }
