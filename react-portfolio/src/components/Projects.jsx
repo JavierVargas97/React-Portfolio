@@ -43,7 +43,7 @@ const Projects = () => {
 
                         {/* //hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <a href='https://github.com/JavierVargas97/Password-Generator'>
+                            <a href='https://github.com/JavierVargas97/Weather-Dashboard'>
                                 <button className='text-center rounded-lg px-4  py-3 m-2 bg-[#a2911f] text-black font-bold text-lg tracking-wider'>
                                     Github Code
                                     "Click Here" for GO!
@@ -58,7 +58,7 @@ const Projects = () => {
 
                         {/* //hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <a href='https://github.com/JavierVargas97/Password-Generator'>
+                            <a href='https://github.com/JavierVargas97/Code-Quiz'>
                                 <button className='text-center rounded-lg px-4  py-3 m-2 bg-[#a2911f] text-black font-bold text-lg tracking-wider'>
                                     Github Code
                                     "Click Here" for GO!
@@ -74,7 +74,7 @@ const Projects = () => {
 
                         {/* //hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <a href='https://github.com/JavierVargas97/Password-Generator'>
+                            <a href='https://github.com/JavierVargas97/personal-asset-manager'>
                                 <button className='text-center rounded-lg px-4  py-3 m-2 bg-[#a2911f] text-black font-bold text-lg tracking-wider'>
                                     Github Code
                                     "Click Here" for GO!
@@ -89,7 +89,7 @@ const Projects = () => {
 
                         {/* //hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <a href='https://github.com/JavierVargas97/Password-Generator'>
+                            <a href='https://github.com/JavierVargas97/TeamProfileGenerator'>
                                 <button className='text-center rounded-lg px-4  py-3 m-2 bg-[#a2911f] text-black font-bold text-lg tracking-wider'>
                                     Github Code
                                     "Click Here" for GO!
@@ -104,7 +104,7 @@ const Projects = () => {
 
                         {/* //hover */}
                         <div className='opacity-0 group-hover:opacity-100'>
-                            <a href='https://github.com/JavierVargas97/Password-Generator'>
+                            <a href='https://github.com/JavierVargas97/BCash'>
                                 <button className='text-center rounded-lg px-4  py-3 m-2 bg-[#a2911f] text-black font-bold text-lg tracking-wider'>
                                     Github Code
                                     "Click Here" for GO!
